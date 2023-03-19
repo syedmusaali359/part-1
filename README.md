@@ -27,8 +27,13 @@
 # trying my best to deliver the best output of this assignment
 
 8- push the code to github
-#
-#
-#
+# git init
+# git add .
+# git commit -m "a1"
+# git bracnh -M master
+# git remote add origin https://github.com/syedmusaali359/part-1.git
+# git remote set-url upstream https://github.com/syedmusaali359/part-1.git
+# git pull https://github.com/syedmusaali359/part-1.git
+# git push https://github.com/syedmusaali359/part-1.git
 
 
